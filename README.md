@@ -29,7 +29,5 @@ pip install torch torchvision
 2. For GPU support (if available), install CUDA (NVIDIA GPU required) and then install PyTorch:
 pip install torch torchvision
 
-3. Verify the installation:
-
-import torch
+3. Verify the installation: import torch
 print(torch.__version__)
