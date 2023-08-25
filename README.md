@@ -30,4 +30,5 @@ pip install torch torchvision
 pip install torch torchvision
 
 3. Verify the installation: import torch
+   
 print(torch.__version__)
