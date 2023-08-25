@@ -24,11 +24,9 @@ Optimizers like Stochastic Gradient Descent (SGD) and Adam are available in `tor
 To get started with PyTorch, follow these steps:
 
 1. Install using `pip` (for CPU version):
-   ```sh
 pip install torch torchvision
 
 3. For GPU support (if available), install CUDA (NVIDIA GPU required) and then install PyTorch:
-   ```sh
 pip install torch torchvision
 
 5. Verify the installation:
